@@ -8,6 +8,7 @@
     "tsc": "tsc"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "typescript": "^5.4.5"
   }
 }
