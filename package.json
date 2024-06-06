@@ -1,0 +1,13 @@
+{
+  "name": "crunch-o-meter-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Di Venere <danieldivenere@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
